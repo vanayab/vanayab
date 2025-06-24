@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=800&lines=+Hola,+soy+Vladimir+Anaya;📊+Transformo+datos+en+decisiones+inteligentes;📈+Visualizo+historias+con+datos;🎮+Fan+de+los+videojuegos+y+los+datos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=800&lines=+Hola,+soy+Vladimir+Anaya;🎮+Fan+de+los+videojuegos+y+los+datos;📊+Transformo+datos+en+decisiones+inteligentes;📈+Visualizo+historias+con+datos" alt="Typing SVG" />
 </div>
 
 ![Programador animado](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
