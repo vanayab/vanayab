@@ -73,7 +73,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanayab&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vanayab&color=blue&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <div align="center">
